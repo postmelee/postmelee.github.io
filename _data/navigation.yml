@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "About"
-  url: https://postmelee.github.io/postmelee/about/
+    url: https://postmelee.github.io/postmelee/about/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
