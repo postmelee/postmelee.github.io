@@ -21,7 +21,7 @@ rtl                      : # true, false (default) # turns direction of the page
 title                    : "RADIOHEAD"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Laegyu Tee"
+name                     : "postmelee"
 description              : "An amazing website."
 url                      : "https://postmelee.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -114,8 +114,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Laegyu Tee"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  name             : "postmelee"
+  avatar           : "/assets/images/IMG_7352.JPG"
   bio              : "Colder than frozen coke"
   location         : "Somewhere"
   email            : "meleeisdeveloping@gmail.com"
