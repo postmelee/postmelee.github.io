@@ -1,3 +1,8 @@
+---
+permalink: /about/
+title: "About"
+---
+
 ## Pligrim, Nomad Coder
 
 #### Always Jazz house and ☕️ in my Workspace !
