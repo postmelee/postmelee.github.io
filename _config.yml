@@ -12,6 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
+future : true
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
@@ -115,7 +116,7 @@ analytics:
 author:
   name             : "Laegyu Tee"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "My baby's got the bends."
+  bio              : "Colder than frozen coke"
   location         : "Somewhere"
   email            : "meleeisdeveloping@gmail.com"
   links:
