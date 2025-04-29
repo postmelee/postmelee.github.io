@@ -8,3 +8,14 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+sidebar-category:
+  - title: "카테고리"
+    children:
+      - title: "AI"
+        url: "/ai"
+      - title: "Mobile"
+        url:  "/mobile"
+      - title: "Web"
+        url:  "/web"
+      - title: "Project"
+        url:  "/project"
