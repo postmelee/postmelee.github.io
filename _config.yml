@@ -22,10 +22,10 @@ title                    : "RADIOHEAD"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "postmelee"
-description              : "An amazing website."
+description              : "Blog"
 url                      : "https://postmelee.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "https://github.com/postmelee/postmelee.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/logo.jpg"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
