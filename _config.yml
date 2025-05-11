@@ -312,6 +312,7 @@ compress_html:
     envs: development
 
 
+image_baseurl: "https://github.com/postmelee/postmelee.github.io.image/blob/master"
 # Defaults
 defaults:
   # _posts
