@@ -43,7 +43,7 @@ style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 
 
 ### Certified Pilgrim
-![pligrim](https://vivecamino.com/img/gal/concha-de-senalizacion-del-camino-de-santiago_7742_p.jpg){width="40%"}
+![pligrim](https://vivecamino.com/img/gal/concha-de-senalizacion-del-camino-de-santiago_7742_p.jpg){: width="40%"}
   - **Camino de Santiago** (06.07.2022 ~ 09.08.2022)
     - Camino Francés - 780km
     - Camino de Fisterra y Muxía -120km
