@@ -5,6 +5,6 @@ permalink: categories/web
 author_profile: true
 ---
 
-
+<div>hi</div>
 {% assign posts = site.categories.web %}
 {% for post in posts %} {% include archive-taxonomy.html type=page.entries_layout %} {% endfor %}
