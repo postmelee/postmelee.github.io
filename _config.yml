@@ -336,4 +336,6 @@ defaults:
     values:
       layout: single
       author_profile: true
+      sidebar:                  # 추가한 부분
+        nav: "sidebar-category"
   
