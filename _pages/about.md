@@ -42,6 +42,9 @@ style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </div>
 
+### Spotify
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/1O2DUNRHF9rSNwYROTBjQx?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 ### SoundCloud
 <iframe width="100%" height="280" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/soundcloud%253Aplaylists%253A2070751752&color=%23ff5500&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/taegyulee" title="UYGEAT" target="_blank" style="color: #cccccc; text-decoration: none;">UYGEAT</a> · <a href="https://soundcloud.com/taegyulee/sets/2025a1" title="2025 Demo" target="_blank" style="color: #cccccc; text-decoration: none;">2025 Demo</a></div>
 
