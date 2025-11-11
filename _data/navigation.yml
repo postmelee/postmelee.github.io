@@ -11,13 +11,9 @@ main:
 sidebar-category:
   - title: "카테고리"
     children:
-      - title: "AI"
-        url: "/ai"
-      - title: "Mobile"
-        url:  "/mobile"
-      - title: "Web"
-        url:  "/web"
-      - title: "Project"
-        url:  "/project"
+      - title: "Categories"
+        url: "/categories/"
+      - title: "Problem Solving"
+        url: "/categories/problem-solving/"
       - title: "Tags"
         url: "/tags"
