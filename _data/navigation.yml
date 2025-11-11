@@ -11,9 +11,9 @@ main:
 sidebar-category:
   - title: "카테고리"
     children:
-      - title: "Categories"
-        url: "/categories/"
       - title: "Problem Solving"
         url: "/categories/problem-solving/"
+      - title: "Categories"
+        url: "/categories/"
       - title: "Tags"
         url: "/tags"

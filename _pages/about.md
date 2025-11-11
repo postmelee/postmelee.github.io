@@ -6,8 +6,9 @@ title: "Taegyu Lee"
   <img src="/assets/images/me.jpg" width="40%">
     <ul>
       <li><b>Pligrim, Nomad Coder</b></li>
-      <li>Always <b>Jazz house</b> and ☕️ in my Workspace !</li>
+      <li>Always <b>Hardcore Punk</b> and ☕️ in my Workspace</li>
       <li><i><code>Alt Rock</code>, <code>Psychdelic Rock</code>, <code>Shoegaze</code>, Love all kind of <b>Noise</b></i></li>
+      <li><b><i>Radiohead</i></b>, <b><i>Turnstile</i></b>, <b><i>Number Girl</i></b> and <b><i>Tame Impala</i></b>, Please come to Korea </li>
     </ul>
 </div>
 
